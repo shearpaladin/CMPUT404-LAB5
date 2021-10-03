@@ -3,4 +3,4 @@ Date: 2007-06-07 8:00
 Category: News
 Author: J. Jonah Jameson
 
-![spider-man is a menace]({attach}images/spider_menace.jpg)
+![spider-man is a menace]({attach}images/spider_menace.jpg){width=40%; height=40%;}
