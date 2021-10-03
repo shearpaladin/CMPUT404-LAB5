@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>My Cool Site</title><link href="https://shearpaladin.github.io/CMPUT404-LAB5/" rel="alternate"></link><link href="https://shearpaladin.github.io/CMPUT404-LAB5/feeds/all.atom.xml" rel="self"></link><id>https://shearpaladin.github.io/CMPUT404-LAB5/</id><updated>2021-01-07T08:00:00-07:00</updated><entry><title>Apple Pie</title><link href="https://shearpaladin.github.io/CMPUT404-LAB5/apple-pie.html" rel="alternate"></link><published>2021-01-07T08:00:00-07:00</published><updated>2021-01-07T08:00:00-07:00</updated><author><name>Danger Doggo</name></author><id>tag:shearpaladin.github.io,2021-01-07:/CMPUT404-LAB5/apple-pie.html</id><content type="html">&lt;p&gt;1 recipe pastry for a 9 inch double crust pie&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Cool Site</title><link href="https://shearpaladin.github.io/CMPUT404-LAB5/" rel="alternate"></link><link href="https://shearpaladin.github.io/CMPUT404-LAB5/feeds/all.atom.xml" rel="self"></link><id>https://shearpaladin.github.io/CMPUT404-LAB5/</id><updated>2021-01-07T08:00:00-07:00</updated><entry><title>Apple Pie</title><link href="https://shearpaladin.github.io/CMPUT404-LAB5/apple-pie.html" rel="alternate"></link><published>2021-01-07T08:00:00-07:00</published><updated>2021-01-07T08:00:00-07:00</updated><author><name>Danger Doggo</name></author><id>tag:shearpaladin.github.io,2021-01-07:/CMPUT404-LAB5/apple-pie.html</id><content type="html">&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1 recipe pastry for a 9 inch double crust pie&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;½ cup unsalted butter&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;3 tablespoons all-purpose flour&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;¼ cup water&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;½ cup white sugar&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;½ cup packed brown sugar&lt;/p&gt;
-&lt;p&gt;8 Granny Smith apples - peeled, cored and sliced&lt;/p&gt;</content><category term="Recipes"></category></entry><entry><title>My First Article</title><link href="https://shearpaladin.github.io/CMPUT404-LAB5/my-first-article.html" rel="alternate"></link><published>2019-01-07T08:00:00-07:00</published><updated>2019-01-07T08:00:00-07:00</updated><author><name>Danger Doggo</name></author><id>tag:shearpaladin.github.io,2019-01-07:/CMPUT404-LAB5/my-first-article.html</id><content type="html">&lt;p&gt;I like free static web hosting.&lt;/p&gt;</content><category term="Blog"></category></entry></feed>
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;8 Granny Smith apples - peeled, cored and sliced&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Recipes"></category></entry><entry><title>My First Article</title><link href="https://shearpaladin.github.io/CMPUT404-LAB5/my-first-article.html" rel="alternate"></link><published>2019-01-07T08:00:00-07:00</published><updated>2019-01-07T08:00:00-07:00</updated><author><name>Danger Doggo</name></author><id>tag:shearpaladin.github.io,2019-01-07:/CMPUT404-LAB5/my-first-article.html</id><content type="html">&lt;p&gt;I like free static web hosting.&lt;/p&gt;</content><category term="Blog"></category></entry><entry><title>Spider-Man Menace at Large!</title><link href="https://shearpaladin.github.io/CMPUT404-LAB5/spider-man-menace-at-large.html" rel="alternate"></link><published>2007-06-07T08:00:00-06:00</published><updated>2007-06-07T08:00:00-06:00</updated><author><name>J. Jonah Jameson</name></author><id>tag:shearpaladin.github.io,2007-06-07:/CMPUT404-LAB5/spider-man-menace-at-large.html</id><content type="html">&lt;p&gt;&lt;img alt="spider-man is a menace" src="https://shearpaladin.github.io/CMPUT404-LAB5/images/spider_menace.jpg"&gt;&lt;/p&gt;</content><category term="News"></category></entry></feed>
