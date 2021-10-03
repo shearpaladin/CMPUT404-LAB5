@@ -4,6 +4,7 @@
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
 SITEURL = 'https://shearpaladin.github.io/CMPUT404-LAB5'
+THEME = 'templates/mytheme'
 
 PATH = 'content'
 
@@ -17,7 +18,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-THEME = 'templates/mytheme'
+
 
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
