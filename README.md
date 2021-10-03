@@ -1,1 +1,1 @@
-# shearpaladin-CMPUT404-LAB5
+# CMPUT404-LAB5
