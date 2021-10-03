@@ -17,6 +17,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+THEME = 'templates/mytheme'
 
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
