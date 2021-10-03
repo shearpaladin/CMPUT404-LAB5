@@ -3,7 +3,7 @@
 
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://shearpaladin.github.io/CMPUT404-LAB5'
 
 PATH = 'content'
 
